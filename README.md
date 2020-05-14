@@ -36,4 +36,4 @@ npx start
 
 ## Resource
 
-- Tutorial on [udemy]() about React.
+- Tutorial on [udemy](https://www.udemy.com/course/react-redux/) about React.
