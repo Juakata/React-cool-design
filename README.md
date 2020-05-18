@@ -16,7 +16,7 @@
 
 1. Clone the repository in your local folder.
 ```
-git clone https://github.com/rociac/bookstore.git
+git clone https://github.com/Juakata/React-cool-design.git
 ```
 2. Run
 ```
